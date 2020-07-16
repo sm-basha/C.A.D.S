@@ -1,4 +1,4 @@
-body{background-color: #e0dede;}
+body{background-color: #F5F6F8;}
 /* NAVBAR */
 .navbar {
   width: 100%;
@@ -65,7 +65,11 @@ i,a:hover{
   margin: auto 0;
 }
 
-
+.career{
+  margin-top: 200px;
+  background-image: url(images/592.jpg);
+  background-size: cover;
+}
 
 
 
